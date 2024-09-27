@@ -18,7 +18,7 @@ void main ()
    }
    else
    {
-    B[i]=A[i]/1.5;
+    B[i]=A[i]*1.5;
    }
   }
   printf("Vetor B:");
